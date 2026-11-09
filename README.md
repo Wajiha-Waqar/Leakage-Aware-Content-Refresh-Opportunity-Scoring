@@ -1,4 +1,4 @@
-# FlyRank ML Internship — Starter Repo
+# Leakage-Aware Content Refresh Opportunity Scoring
 
 **Applied Search Intelligence: Google Search Ranking & Discoverability**
 
